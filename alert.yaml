@@ -1,4 +1,4 @@
-name: .github/workflows/memecoin-alert
+name: memecoin-alert
 
 on:
   schedule:

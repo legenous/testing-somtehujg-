@@ -1,0 +1,5 @@
+[
+  {"id": "bitcoin", "buy_price": null, "thesis": "Réserve de valeur, adoption institutionnelle"},
+  {"id": "ethereum", "buy_price": null, "thesis": "Infrastructure des smart contracts"},
+  {"id": "solana", "buy_price": null, "thesis": "Blockchain rapide, écosystème memecoins"}
+]
